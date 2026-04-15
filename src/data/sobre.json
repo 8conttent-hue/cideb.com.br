@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o CIDEB"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O Congresso Internacional de Desenvolvimento e Inovação em Tecnologia (CIDEB) é um espaço dedicado à troca de conhecimento e experiências. Nosso objetivo é promover o debate e a reflexão sobre as inovações tecnológicas e seu impacto na sociedade."
+  },
+  "content": "O CIDEB reúne especialistas da indústria, acadêmicos e estudantes para compartilhar suas expertise e discussões sobre as tecnologias emergentes. Com uma diversidade de tópicos, desde inteligência artificial até sustentabilidade tecnológica, o congresso se tornou um evento essencial para aqueles que desejam estar à frente no cenário tecnológico.",
+  "mission": "Nossa missão é inspirar a próxima geração de inovadores, fornecendo um espaço para aprendizado e colaboração no setor tecnológico.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "800+",
+      "label": "Tutoriais"
+    },
+    {
+      "value": "150k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "8",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "CIDEB — Bem-vindo ao CIDEB",
+    "description": "O congresso que transforma ideias em inovação"
+  },
+  "hero": {
+    "title": "Bem-vindo ao CIDEB",
+    "subtitle": "O congresso que transforma ideias em inovação",
+    "btnText": "Inscreva-se agora",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que oferecemos",
+    "items": [
+      {
+        "icon": "🚀",
+        "title": "Palestras Inspiradoras",
+        "desc": "Conecte-se com os principais especialistas em tecnologia e descubra as tendências que moldarão o futuro."
+      },
+      {
+        "icon": "🤝",
+        "title": "Networking Poderoso",
+        "desc": "Encontre e interaja com profissionais, empreendedores e acadêmicos que compartilham a sua paixão por tecnologia."
+      },
+      {
+        "icon": "💡",
+        "title": "Workshops Práticos",
+        "desc": "Participe de sessões interativas que ensinam habilidades aplicáveis e técnicas avançadas em diversas áreas da tecnologia."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o CIDEB",
+    "desc": "O Congresso Internacional de Desenvolvimento e Inovação em Tecnologia (CIDEB) é um espaço dedicado à troca de conhecimento e experiências. Nosso objetivo é promover o debate e a reflexão sobre as inovações tecnológicas e seu impacto na sociedade.",
+    "stats": [
+      {
+        "value": "20+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "1500+",
+        "label": "Participantes"
+      },
+      {
+        "value": "50+",
+        "label": "Palestrantes Renomados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

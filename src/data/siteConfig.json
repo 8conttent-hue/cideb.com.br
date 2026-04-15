@@ -1,0 +1,53 @@
+{
+  "name": "CIDEB",
+  "slug": "cideb.com.br",
+  "description": "Site de um congresso e fala de tecnologia",
+  "url": "https://cideb.com.br",
+  "niche": "Tecnologia",
+  "keywords": "Site de um congresso e fala de tecnologia",
+  "email": "contato@cideb.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-A",
+    "hero": "Hero-B",
+    "features": "Features-H",
+    "about": "About-J",
+    "posts": "Posts-G",
+    "footer": "Footer-A",
+    "sobre": "Sobre-B",
+    "contato": "Contato-H"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
